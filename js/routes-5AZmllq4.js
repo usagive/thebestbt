@@ -1,0 +1,1 @@
+import{t as e}from"./index-Dg09kldW.js";var t=e();function n(){return(0,t.jsx)(`iframe`,{src:`/site/index.html`,title:`The Best Botino - Counter-Strike 1.6 servers`,style:{width:`100%`,height:`100vh`,border:0,display:`block`}})}export{n as component};
